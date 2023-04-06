@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Animations2D/Animations2D.iml" filepath="$PROJECT_DIR$/Animations2D/Animations2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BorderLayout/BorderLayout.iml" filepath="$PROJECT_DIR$/BorderLayout/BorderLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DragListener-ClickListener/DragListener-ClickListener.iml" filepath="$PROJECT_DIR$/DragListener-ClickListener/DragListener-ClickListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlowLayout/FlowLayout.iml" filepath="$PROJECT_DIR$/FlowLayout/FlowLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graphics2D/Graphics2D.iml" filepath="$PROJECT_DIR$/Graphics2D/Graphics2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GridLayout/GridLayout.iml" filepath="$PROJECT_DIR$/GridLayout/GridLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JButton/JButton.iml" filepath="$PROJECT_DIR$/JButton/JButton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JCheckBox/JCheckBox.iml" filepath="$PROJECT_DIR$/JCheckBox/JCheckBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JColorChooser/JColorChooser.iml" filepath="$PROJECT_DIR$/JColorChooser/JColorChooser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JComboBox/JComboBox.iml" filepath="$PROJECT_DIR$/JComboBox/JComboBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFileChooser/JFileChooser.iml" filepath="$PROJECT_DIR$/JFileChooser/JFileChooser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JFrame/JFrame.iml" filepath="$PROJECT_DIR$/JFrame/JFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JLabel/JLabel.iml" filepath="$PROJECT_DIR$/JLabel/JLabel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JLayeredPane/JLayeredPane.iml" filepath="$PROJECT_DIR$/JLayeredPane/JLayeredPane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JOptionPane/JOptionPane.iml" filepath="$PROJECT_DIR$/JOptionPane/JOptionPane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JPanel/JPanel.iml" filepath="$PROJECT_DIR$/JPanel/JPanel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JRadioButton/JRadioButton.iml" filepath="$PROJECT_DIR$/JRadioButton/JRadioButton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSlider/JSlider.iml" filepath="$PROJECT_DIR$/JSlider/JSlider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JTextField/JTextField.iml" filepath="$PROJECT_DIR$/JTextField/JTextField.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaGUIFullCourse.iml" filepath="$PROJECT_DIR$/.idea/JavaGUIFullCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JmenuBar/JmenuBar.iml" filepath="$PROJECT_DIR$/JmenuBar/JmenuBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeyBindings/KeyBindings.iml" filepath="$PROJECT_DIR$/KeyBindings/KeyBindings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeyListener/KeyListener.iml" filepath="$PROJECT_DIR$/KeyListener/KeyListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LaunchPage/LaunchPage.iml" filepath="$PROJECT_DIR$/LaunchPage/LaunchPage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MouseListener/MouseListener.iml" filepath="$PROJECT_DIR$/MouseListener/MouseListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgressBar/ProgressBar.iml" filepath="$PROJECT_DIR$/ProgressBar/ProgressBar.iml" />
+    </modules>
+  </component>
+</project>
